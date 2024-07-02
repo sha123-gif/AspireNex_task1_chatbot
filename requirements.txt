@@ -1,0 +1,9 @@
+pip install Flask Flask-Bootstrap Flask-SQLAlchemy Flask-Login
+pip install requests 
+pip install werkzeug
+pip install bs4
+pip install nltk 
+pip install SpaCy
+pip install sympy
+api_key = 'AIzaSyCIBYQVKX5lbixLVIffnLCVK_-av-rjGHo'
+search_engine_id = '0619a0a39d63f4503'
